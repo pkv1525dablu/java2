@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="89dbe65e-da94-4e6f-8ca4-f30f0d7be2ce" name="Changes" comment="git init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sum3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ApnaCollege/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ApnaCollege/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ApnaCollege/Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ApnaCollege/Sum3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +28,6 @@
   <component name="ProjectId" id="2CnPRSJpmudoVllYW7Mi2QKnW8D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -35,24 +36,10 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowStructure.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Sum3">
-    <configuration name="Fibonnciss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonnciss" />
-      <module name="ApnaCollege" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumtoWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumtoWord" />
-      <module name="ApnaCollege" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sum4">
     <configuration name="Pelindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pelindrom" />
       <module name="ApnaCollege" />
@@ -60,8 +47,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum2" />
+    <configuration name="Pelindrom2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pelindrom2" />
+      <module name="ApnaCollege" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
       <module name="ApnaCollege" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sum4" />
+      <module name="ApnaCollege" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sum4" />
         <item itemvalue="Application.Sum3" />
+        <item itemvalue="Application.Pelindrom2" />
+        <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.Pelindrom" />
-        <item itemvalue="Application.Fibonnciss" />
-        <item itemvalue="Application.NumtoWord" />
-        <item itemvalue="Application.Sum2" />
       </list>
     </recent_temporary>
   </component>

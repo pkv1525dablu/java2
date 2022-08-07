@@ -7,7 +7,7 @@ public class Sum3 {
     /* Name of the class has to be "Main" only if the class is public. */
 
     public static void main(String[] args) throws java.lang.Exception {
-        int marks[] = {5, 8, 9, 12, 12, 28, 5,};
+        int marks[] = {5, 8, 9, 12, 12, 28,28,29, 5,};
         // your code goes here
         int i, sum = 0;
         Arrays.sort(marks);
