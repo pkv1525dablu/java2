@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89dbe65e-da94-4e6f-8ca4-f30f0d7be2ce" name="Changes" comment="git init">
+      <change afterPath="$PROJECT_DIR$/AsciiValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fibonnciss.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fibonnciss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ApnaCollege/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ApnaCollege/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ApnaCollege/Fibonnciss.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ApnaCollege/Fibonnciss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ApnaCollege/Sum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ApnaCollege/Sum3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ApnaCollege/sum4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,37 +43,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.sum4">
-    <configuration name="Pelindrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pelindrom" />
+  <component name="RunManager" selected="Application.SumofRangeNumber">
+    <configuration name="AsciiValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AsciiValue" />
       <module name="ApnaCollege" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pelindrom2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pelindrom2" />
+    <configuration name="Fa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fa" />
       <module name="ApnaCollege" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse" />
+    <configuration name="NegativePositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NegativePositive" />
       <module name="ApnaCollege" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum3" />
+    <configuration name="SumofNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumofNatural" />
       <module name="ApnaCollege" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sum4" />
+    <configuration name="SumofRangeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumofRangeNumber" />
       <module name="ApnaCollege" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sum4" />
-        <item itemvalue="Application.Sum3" />
-        <item itemvalue="Application.Pelindrom2" />
-        <item itemvalue="Application.Reverse" />
-        <item itemvalue="Application.Pelindrom" />
+        <item itemvalue="Application.SumofRangeNumber" />
+        <item itemvalue="Application.SumofNatural" />
+        <item itemvalue="Application.NegativePositive" />
+        <item itemvalue="Application.AsciiValue" />
+        <item itemvalue="Application.Fa" />
       </list>
     </recent_temporary>
   </component>
